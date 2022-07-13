@@ -1,3 +1,37 @@
+# Blog Pessoal
+
+![home](https://user-images.githubusercontent.com/88368957/178837503-ab66a98b-a2c2-42d6-8382-0a890dfbbf71.JPG)
+
+
+<h1>Sobre</h1>
+<p>Blog pessoal desenvolvido durante o bootcamp da Generation Brasil</p>
+
+### Prioridades da versão 1.0
+- [x] Cadastro de usuário
+- [x] Login de usuário
+- [x] Home
+- [x] Cadastrar tema
+- [x] Atualizar tema
+- [x] Deletar tema
+- [x] Listar tema
+- [x] Cadastrar postagem
+- [x] Atualizar postagem
+- [x] Deletar postagem
+- [x] Listar postagens
+- [x] Alerts
+- [x] Armazenar token com Redux
+
+### Ferramentas e tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60"/>
+
+### Visite o site
+https://blog-pessoal-projetogen.vercel.app/
+
+### Veja também o repositório do back-end
+https://github.com/laradaniel/BlogPessoal
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
